@@ -1,0 +1,41 @@
+Index: app/src/main/java/com/example/ruhulchowdhury/testand/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/ruhulchowdhury/testand/MainActivity.java	(revision 538607551d12993afaba7cd1cea2821b5ca8e88a)
++++ app/src/main/java/com/example/ruhulchowdhury/testand/MainActivity.java	(date 1527396143911)
+@@ -9,5 +9,7 @@
+     protected void onCreate(Bundle savedInstanceState) {
+         super.onCreate(savedInstanceState);
+         setContentView(R.layout.activity_main);
++        int i=0;
++        //Comment
+     }
+ }
+Index: app/src/main/java/com/example/ruhulchowdhury/testand/Student.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/example/ruhulchowdhury/testand/Student.java	(date 1527394435802)
++++ app/src/main/java/com/example/ruhulchowdhury/testand/Student.java	(date 1527394435802)
+@@ -0,0 +1,4 @@
++package com.example.ruhulchowdhury.testand;
++
++public class Student {
++}
+diff --git .idea/caches/build_file_checksums.ser .idea/caches/build_file_checksums.ser
+index ee44cf0fa58da6794e1570e739979333fded7205..1b1ec87506ac2b7b44651a0706748b3bbfd74f24
+GIT binary patch
+literal 547
+zc${1FmVvdnh`~NNKUXg?FQq6yGexf?KR>5fFEb@IQ7^qHF(oHeub?PDD>b=9F91S2
+zm1gFoxMk*~I%lLNXBU^|7Q2L-Ts|(GuF1r}<i#MFTj`TnT;dMa8(f)}9Fm!vT3nKt
+zTj0aMpIeEdv4nx&Co8cmQNOe#Ge_SyvB0{bfPsNAdH(bHOh9)Dg5>l-a(W(##Th_(
+zR`y#54~r#SWM*J;W8likPfT%3OfJbU@?_vF$tX%K&dAS6sVJ~_U;qK0at<IV0K{x1
+z3<8M-1u;n=r$fC}TExH<?X>2z_zyOYkOxc*3?Qo+1Y}?SYIO?ipYt*C+U!Kx%eFu#
+z7N?e!Wagz8!!#B$)G@Gu)Xuw^u+Qc`d!BBBo>aKg;e{m(JSaB66&92)Dvq|8@~Yr#
+zqD)h0s437nIr+(nIiR2|NG&SKOf5zzE@`bjJd5f6wrH~%Km7Sk(@PkPoULL)i&Kk=
+zV~R>MN^|s*GxEz*GD?doW1u$0AYux`xGS<fH~SejvAk^Hobl#|Q(XyzARg79dzn}5
+RNm%N)$u`aS*;#?43IGI}z#{+v
+
